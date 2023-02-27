@@ -1,0 +1,7 @@
+﻿  Generate moc_predefs.h
+  main.cpp
+  mainwindow.cpp
+  mysql.cpp
+  moc_mainwindow.cpp
+  moc_mysql.cpp
+  up2data_fullApp.vcxproj -> C:\up2data_fullApp\debug\up2data_fullApp.exe

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "up2data_fullApp", "up2data_fullApp.vcxproj", "{ED9F2C3A-A60C-39D3-A831-10E56C4661BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED9F2C3A-A60C-39D3-A831-10E56C4661BC}.Debug|x64.ActiveCfg = Debug|x64
+		{ED9F2C3A-A60C-39D3-A831-10E56C4661BC}.Debug|x64.Build.0 = Debug|x64
+		{ED9F2C3A-A60C-39D3-A831-10E56C4661BC}.Release|x64.ActiveCfg = Release|x64
+		{ED9F2C3A-A60C-39D3-A831-10E56C4661BC}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBD2D475-00B5-4761-955D-20F68B4CB832}
+	EndGlobalSection
+EndGlobal
